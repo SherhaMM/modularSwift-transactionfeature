@@ -1,0 +1,10 @@
+"list.lbl.error" = "Can't load data";
+"list.lbl.check_connection" = "Check your connection";
+"list.lbl.transactions" = "Transactions";
+"list.lbl.filter_button" = "Filter";
+"list.dialog.title" = "Choose category";
+"list.lbl.reset_filters" = "Reset filters";
+"list.lbl.loading" = "Loading";
+"list.total" = "Transaction sum: ";
+"details.description_section.title" = "Description";
+
